@@ -1,0 +1,15 @@
+1. define a function that gets the variable for the linear problem (takes a product as a variable)
+    a. x = the product and states that the product must be at least 0
+    b. return x
+2. define a function to get the users input(takes no parameters)
+    a. ask the user for what product they are selling
+    b. return their input
+3. define a function to get a constraint value
+    a. ask the user what the constraint is for the given resource
+    b. return their input
+4. define a function to get the limitations of a resource
+    a. ask the user what the limit is for the given resource
+    b. return their input
+5. define a function to get the profit for a product
+    a. ask the user what the profit is for a given item
+    b. return the profit

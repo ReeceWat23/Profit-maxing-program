@@ -1,0 +1,18 @@
+1. define our problem and what we want to do "maximize profits"
+2. get the name of the first product that we want to use (using the get lp_variable function and prompt_prod function)
+3. get the name of the second product that we want to use (using the get lp_variable function and prompt_prod function)
+4. Get the limit of the first resource
+5. get the constraint for the first product of for this resource
+6. get the constraint for the second product of for this resource
+7. Get the limit of the second resource
+8. get the constraint for the first product of for this resource
+9. get the constraint for the second product of for this resource
+10. Get the desired profit for the first product and second product (using the get_objective function)
+11. define constraint 1
+12. define constraint 2
+13. solve the problem using .solve
+14. Print out the status of our problem
+15. get the solution values for our problem and store it in a variable "value"
+16. print the optimal value
+17. print the value for product 1
+18. print the value for product 2
